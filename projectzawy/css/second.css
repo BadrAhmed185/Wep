@@ -1,0 +1,112 @@
+body{
+    background-image: url("newyork.jpg");
+    background-size: cover;
+
+}
+
+     
+nav{
+  margin-top: 30px;
+text-align: right;
+font-weight: bold;
+/* padding: 1em; */
+
+}
+
+a{
+  
+  font-size: 26px;
+  text-decoration: none;
+  color: aliceblue;
+}
+a:hover{
+  font-size: 30px;
+}
+nav a{
+    color: #fff;
+    text-decoration: none;
+   padding: 0.5em 1em;
+    margin: 0 1em;
+    font-size: larger;
+
+  }
+
+
+ .description{
+  background-color: rgb( 0 , 0 ,0, 0.6);
+color: rgb(232, 240, 240);
+margin-top: 150px;
+margin-left: 70px;
+width: fit-content;
+font-size: x-large;
+padding: 10px;
+
+ }
+
+ .description:hover
+ {
+  /* background-color: rgb( 156 , 98 , 78); */
+  border-radius: 18px;
+
+}
+.buttonsDiv{ margin-left: 80px;}
+
+button{
+
+   background-color: rgb( 85, 107, 157, 0.6);
+   padding-top: 5px;
+   margin-top:20px ;
+   margin-left:23px ;
+
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+   font-size: large;
+   height: 38px;
+   width: 200px;
+}
+.butt
+{
+  display: inline-block;
+}
+
+button:hover {
+  background-color: rgb( 85, 107, 157);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ footer {
+    background-color: #051318;
+    color: #fff;
+    text-align: center;
+    padding: 0,5em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
